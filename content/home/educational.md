@@ -4,3 +4,17 @@ headless: true
 weight: 3
 ---
 
+
+#### 2018 
+
+{{%expand "Journal Club: Whole Genome Sequencing for TB Susceptibilities" %}}<iframe src="https://onedrive.live.com/embed?resid=7E7DD198156E0C31%2116988&amp;authkey=%21AGKziYC1DTHUL-o&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
+
+
+{{%expand "Machine Learning in ID" %}}<iframe src="https://onedrive.live.com/embed?resid=7E7DD198156E0C31%2116983&amp;authkey=%21AFXugO-V0ijvijc&amp;em=2&amp;wdAr=1.334174022698613" width="350px" height="286px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
+
+\
+
+#### 2017
+
+
+{{%expand "Introduction to Blood Cultures" %}}<iframe src="https://onedrive.live.com/embed?resid=7E7DD198156E0C31%2116986&amp;authkey=%21AJvdzhsSeiCES1A&amp;em=2&amp;wdAr=1.3333333333333333" width="350px" height="286px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
