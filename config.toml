@@ -1,5 +1,6 @@
 baseURL                          = "https://schorlton.github.io/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
+title 				 = "Sam Chorlton"
 #DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                       # https://gohugo.io/templates/internal/#google-analytics
