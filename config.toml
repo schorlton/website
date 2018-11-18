@@ -1,4 +1,4 @@
-baseURL                          = "https://samchorlton.com/"  # Your domain name. Must end with "/"
+baseURL                          = "samchorlton.com/"  # Your domain name. Must end with "/"
 theme                            = "introduction"
 title 				 = "Sam Chorlton"
 #DefaultContentLanguage           = "en"                    # Default language for multilingual sites
