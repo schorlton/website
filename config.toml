@@ -5,7 +5,7 @@ title 				 = "Sam Chorlton"
 # disqusshortname                 = ""                       # https://gohugo.io/content-management/comments
 googleAnalytics                 = "UA-129345906-1"                       # https://gohugo.io/templates/internal/#google-analytics
 enableRobotsTXT = true
-
+canonifyURLs = true
 
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
