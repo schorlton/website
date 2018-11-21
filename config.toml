@@ -16,6 +16,9 @@ canonifyURLs = true
     dateFormat                   = "Jan 2, 2006"
     email                        = ""   # E-mail address for contact section
     customCSS                    = ["custom.css"]             # Include custom css files placed under assets/
+	author = "Sam Chorlton"
+	description = "Sam Chorlton's Site"
+	
 
     # Configure the home page
     [params.home]
@@ -34,4 +37,28 @@ canonifyURLs = true
 [blackfriday] hrefTargetBlank = true
 
 
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+weight = 1  
 
+[[menu.main]]
+  name = "Presentations"
+  url = "#presentations"
+weight = 2
+
+[[menu.main]]
+  name = "Educational Material"
+  url = "#educational"
+weight = 3
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+weight = 5
+
+[[menu.main]]
+    name = "Github"
+  
+    url = "https://github.com/schorlton"
+	weight = 4
