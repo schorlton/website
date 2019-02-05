@@ -34,7 +34,8 @@ canonifyURLs = true
 
 
 
-[blackfriday] hrefTargetBlank = true
+[blackfriday]
+hrefTargetBlank = true
 
 
 [[menu.main]]
