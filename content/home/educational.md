@@ -4,6 +4,10 @@ headless: true
 weight: 3
 ---
 
+#### 2019
+
+{{%expand "Journal Club: Blastomyces helicus" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2116998&amp;authkey=AAuzYta3SxyyFkc&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
+
 
 #### 2018 
 {{%expand "Angiostrongyliasis" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2116993&amp;authkey=AExfxPx6HYZB5cs&amp;em=2&amp;wdAr=1.7781512605042016" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
