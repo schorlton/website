@@ -4,9 +4,9 @@ headless: true
 weight: 2
 ---
 
-Chorlton SD, Ritchie G, Lawson T, Romney MG, Lowe CF. Whole-Genome Sequencing of Corynebacterium diphtheriae Isolates Recovered from An Inner-City Population Demonstrates Predominance of a Single Molecular Strain. Abstract accepted to: ASM Microbe, 2019 Jun 21; San Francisco, USA.
+**Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CF. Whole-Genome Sequencing of Corynebacterium diphtheriae Isolates Recovered from An Inner-City Population Demonstrates Predominance of a Single Molecular Strain. Abstract accepted to: ASM Microbe, 2019 Jun 21; San Francisco, USA.
 
-Zou J, Chorlton S, Payne M, Lawson T, Romney MG, Ritchie G, Lowe CF. [Whole Genome Sequencing and Penicillin Susceptibility Testing for Corynebacterium diphtheriae: Are the 2015 CLSI M-45 Breakpoints Relevant?](AMMI2019_Cdip.pdf) Abstract presented at: AMMI Canada - CACMID Annual Conference, 2019 Apr 4; Ottawa, Canada.
+Zou J, **Chorlton S**, Payne M, Lawson T, Romney MG, Ritchie G, Lowe CF. [Whole Genome Sequencing and Penicillin Susceptibility Testing for Corynebacterium diphtheriae: Are the 2015 CLSI M-45 Breakpoints Relevant?](AMMI2019_Cdip.pdf) Abstract presented at: AMMI Canada - CACMID Annual Conference, 2019 Apr 4; Ottawa, Canada.
 
 Green A et al. Elevated Serotonin (5-HT) impairs brown adipose tissue (BAT) and 5-HT receptor blockade improves whole body metabolism. Abstract presented at: Health Sciences Research Plenary; 2017 May 18; Hamilton, Canada.
 
