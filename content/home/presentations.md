@@ -4,7 +4,7 @@ headless: true
 weight: 2
 ---
 
-**Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CF. [Whole-Genome Sequencing of Corynebacterium diphtheriae Isolates Recovered from An Inner-City Population Demonstrates Predominance of a Single Molecular Strain.](https://docs.google.com/presentation/d/1MrWmtdsFDqp8U63hGrD8-3GG6E4hZ8R6hTt1UUPEjkc/edit?usp=sharing) Abstract presented at: ASM Microbe, 2019 Jun 21; San Francisco, USA. Oral presentation: [here](https://docs.google.com/presentation/d/1O4nLaQ0agrwTAsj9JJI989peuQjQF5xyFGl5cuD48nc/edit?usp=sharing)
+**Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CF. [Whole-Genome Sequencing of Corynebacterium diphtheriae Isolates Recovered from An Inner-City Population Demonstrates Predominance of a Single Molecular Strain.](https://docs.google.com/presentation/d/1MrWmtdsFDqp8U63hGrD8-3GG6E4hZ8R6hTt1UUPEjkc/edit?usp=sharing) Abstract presented at: ASM Microbe, 2019 Jun 21; San Francisco, USA. Oral presentation: [here](https://docs.google.com/presentation/d/1O4nLaQ0agrwTAsj9JJI989peuQjQF5xyFGl5cuD48nc/edit?usp=sharing).
 
 Zou J, **Chorlton S**, Payne M, Lawson T, Romney MG, Ritchie G, Lowe CF. [Whole Genome Sequencing and Penicillin Susceptibility Testing for Corynebacterium diphtheriae: Are the 2015 CLSI M-45 Breakpoints Relevant?](AMMI2019_Cdip.pdf) Abstract presented at: AMMI Canada - CACMID Annual Conference, 2019 Apr 4; Ottawa, Canada.
 
