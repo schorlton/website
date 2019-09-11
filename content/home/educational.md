@@ -6,6 +6,14 @@ weight: 3
 
 #### 2019
 
+{{%expand "Origins of HIV" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117016&amp;authkey=AHZvPM-zhWtN7ko&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand %}}
+
+{{%expand "Rapid Blood Culture AST" %}}<iframe src="https://onedrive.live.com/embed?resid=7E7DD198156E0C31%2117015&amp;authkey=%21APXPzf9SYoVsvNs&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand %}}
+
+[Vaccine information handout - BC Children's Hospital Vaccine Day.](https://docs.google.com/presentation/d/1-0lcrU-UcFoZNG0jdxzE6HrT69NsJ2aq2O4912FtOKg/edit?usp=sharing)
+
+{{%expand "TB Diagnostic PCR" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117017&amp;authkey=AMroTi3b4JUkfdE&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand %}}
+
 {{%expand "Bad Pharma, Part 1" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117003&amp;authkey=AOkijlfQdvkhsk0&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
 
 {{%expand "Tsukamurella Infections" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117004&amp;authkey=AL_kF8bJ0V8UCcE&amp;em=2&amp;wdAr=1.3333333333333333" width="350px" height="286px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>{{% /expand %}}
