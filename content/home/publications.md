@@ -3,7 +3,11 @@ title: "Publications"
 weight: 0
 ---
 
+Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus. In press, J Clin Micro 2019.
+
 Dowhaniuk et al. Starving the gut: A deficit of butyrate in the intestinal ecosystem of children with intestinal failure. In press, J Parenter Enter Nutr 2019.
+
+**Chorlton SD**. [Adjunctive bradyzoite-directed therapy for reducing complications of congenital toxoplasmosis](https://doi.org/10.1016/j.mehy.2019.109376). Med Hypotheses 2019.
 
 **Chorlton SD**. [Toxoplasma gondii and schizophrenia: a review of published RCTs](http://rdcu.be/tBHx). Parasitol Res 2017.
 
