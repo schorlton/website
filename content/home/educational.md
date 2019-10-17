@@ -6,6 +6,8 @@ weight: 3
 
 #### 2019
 
+{{%expand "Mutant STIs" %}}<iframe src="https://onedrive.live.com/embed?resid=7E7DD198156E0C31%2117024&amp;authkey=%21ACetSvEyF7FeRBU&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand % }}
+
 {{%expand "Journal Club: HIV Reservoir Anatomy" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117022&amp;authkey=ALBfW3U7DuAynME&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand %}}
 
 {{%expand "Journal Club: Cefazolin vs Antistaphylococcal Penicillins for MSSA Bacteremia" %}}<iframe src="https://onedrive.live.com/embed?cid=7E7DD198156E0C31&amp;resid=7E7DD198156E0C31%2117020&amp;authkey=ALWi0FBObf9aYa4&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>{{% /expand %}}

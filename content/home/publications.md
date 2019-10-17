@@ -3,7 +3,7 @@ title: "Publications"
 weight: 0
 ---
 
-Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus. In press, J Clin Micro 2019.
+Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. [Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus](https://doi.org/10.1128/JCM.00994-19). In press, J Clin Micro 2019.
 
 Dowhaniuk et al. Starving the gut: A deficit of butyrate in the intestinal ecosystem of children with intestinal failure. In press, J Parenter Enter Nutr 2019.
 
