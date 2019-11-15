@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Peer-Reviewed Publications"
 weight: 0
 ---
 
@@ -12,6 +12,8 @@ Dowhaniuk et al. [Starving the gut: A deficit of butyrate in the intestinal ecos
 **Chorlton SD**. [Adjunctive bradyzoite-directed therapy for reducing complications of congenital toxoplasmosis](https://doi.org/10.1016/j.mehy.2019.109376). Med Hypotheses 2019.
 
 **Chorlton SD**. [Toxoplasma gondii and schizophrenia: a review of published RCTs](http://rdcu.be/tBHx). Parasitol Res 2017.
+
+Mobilia N, Rocca A, **Chorlton S**, Fanchon E, Trilling L. [Logical Modeling and Analysis of Regulatory Genetic Networks in a Non Monotonic Framework](https://doi.org/10.1007/978-3-319-16483-0_58); Bioinf Biomed Eng 2015.
 
 **Chorlton SD**, Hallett RM, Hassell JA. [A program to identify prognostic and predictive gene signatures](https://bmcresnotes.biomedcentral.com/articles/10.1186/1756-0500-7-546). BMC Res Notes 2014.
 
