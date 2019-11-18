@@ -3,6 +3,8 @@ title: "Peer-Reviewed Publications"
 weight: 0
 ---
 
+**Chorlton SD** et al. Whole-genome sequencing of Corynebacterium diphtheriae isolates recovered from an inner-city population demonstrates the predominance of a single molecular strain. J Clin Micro 2019, in press.
+
 Zou et al. Phenotypic and genotypic correlates of penicillin susceptibility in non-toxigenic Corynebacterium diphtheriae, British Columbia, 2015-2018. Emerg Infect Dis, in press.
 
 Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. [Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus](https://doi.org/10.1128/JCM.00994-19). J Clin Micro 2019, in press.

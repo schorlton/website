@@ -4,7 +4,9 @@ headless: true
 weight: 2
 ---
 
-Dowhaniuk et al. Inflammation and Intestinal Permeability in Pediatric Short Bowel Syndrome. Abstract accepted to: Canadian Digestive Diseases Week, 2020 Feb 28; Montreal, Canada.
+Dowhaniuk J et al. Inflammation and Intestinal Permeability in Pediatric Short Bowel Syndrome. Abstract accepted to: Canadian Digestive Diseases Week, 2020 Feb 28; Montreal, Canada.
+
+Fornika D et al. Towards Automated Genomic Analysis for Surveillance and Infection-Control of Carbapenemase-Producing Organisms. Abstract presented at: BCCDC Research Week, 2019 Oct 22; Vancouver, Canada.
 
 **Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CF. [Whole-Genome Sequencing of Corynebacterium diphtheriae Isolates Recovered from An Inner-City Population Demonstrates Predominance of a Single Molecular Strain.](https://docs.google.com/presentation/d/1MrWmtdsFDqp8U63hGrD8-3GG6E4hZ8R6hTt1UUPEjkc/edit?usp=sharing) Abstract presented at: ASM Microbe, 2019 Jun 21; San Francisco, USA. Oral presentation: [here](https://docs.google.com/presentation/d/1O4nLaQ0agrwTAsj9JJI989peuQjQF5xyFGl5cuD48nc/edit?usp=sharing).
 
