@@ -5,7 +5,7 @@ weight: 0
 
 Zou et al. [Phenotypic and genotypic correlates of penicillin susceptibility in non-toxigenic Corynebacterium diphtheriae, British Columbia, 2015-2018](https://doi.org/10.3201/eid2601.191241). Emerg Infect Dis, 2020.
 
-**Chorlton SD**. [Reanalysis of Alzheimer’s Brain Sequencing Data Reveals Absence of Purported HHV6A and HHV7](Reanalysis_of_Alzheimers_brain_sequencing.pdf). J Bioinfo Comp Bio 2019, in press.
+**Chorlton SD**. Reanalysis of Alzheimer’s Brain Sequencing Data Reveals Absence of Purported HHV6A and HHV7. J Bioinfo Comp Bio 2019, in press. Preprint [here](https://doi.org/10.1101/830695).
 
 **Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CL. [Whole-genome sequencing of Corynebacterium diphtheriae isolates recovered from an inner-city population demonstrates the predominance of a single molecular strain](https://doi.org/10.1128/JCM.01651-19). J Clin Micro 2019.
 
