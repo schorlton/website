@@ -3,11 +3,13 @@ title: "Peer-Reviewed Publications"
 weight: 0
 ---
 
-**Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CL. Whole-genome sequencing of Corynebacterium diphtheriae isolates recovered from an inner-city population demonstrates the predominance of a single molecular strain. J Clin Micro 2019, in press.
+Zou et al. [Phenotypic and genotypic correlates of penicillin susceptibility in non-toxigenic Corynebacterium diphtheriae, British Columbia, 2015-2018](https://doi.org/10.3201/eid2601.191241). Emerg Infect Dis, 2020.
 
-Zou et al. Phenotypic and genotypic correlates of penicillin susceptibility in non-toxigenic Corynebacterium diphtheriae, British Columbia, 2015-2018. Emerg Infect Dis, in press.
+**Chorlton SD**. [Reanalysis of Alzheimer’s Brain Sequencing Data Reveals Absence of Purported HHV6A and HHV7](Reanalysis_of_Alzheimers_brain_sequencing.pdf). J Bioinfo Comp Bio 2019, in press.
 
-Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. [Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus](https://doi.org/10.1128/JCM.00994-19). J Clin Micro 2019, in press.
+**Chorlton SD**, Ritchie G, Lawson T, Romney MG, Lowe CL. [Whole-genome sequencing of Corynebacterium diphtheriae isolates recovered from an inner-city population demonstrates the predominance of a single molecular strain](https://doi.org/10.1128/JCM.01651-19). J Clin Micro 2019.
+
+Al-Rawahi G, **Chorlton S**, Dhaliwal S, Golding G, Tilley P. [Performance of the BD Phoenix Automated Microbiology System for Trimethoprim-Sulfamethoxazole Susceptibility Testing of Staphylococcus aureus](https://doi.org/10.1128/JCM.00994-19). J Clin Micro 2019.
 
 Dowhaniuk et al. [Starving the gut: A deficit of butyrate in the intestinal ecosystem of children with intestinal failure](https://onlinelibrary.wiley.com/doi/full/10.1002/jpen.1715). J Parenter Enter Nutr 2019.
 
