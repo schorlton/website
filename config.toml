@@ -7,6 +7,10 @@ googleAnalytics                 = "UA-129345906-1"                       # https
 enableRobotsTXT = true
 canonifyURLs = true
 
+[markup]
+  defaultMarkdownHandler = "blackFriday"
+
+
 [params]
     themeStyle                   = "light"                 # Choose "light" or "dark"
     favicon                      = "favicon.ico"          # Path to favicon file
